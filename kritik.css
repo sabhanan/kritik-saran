@@ -1,0 +1,114 @@
+body{
+    background-image: url('file:///C:/Users/HP/OneDrive/Pictures/image.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.ac{
+    display: flex;
+    justify-content: center;
+}
+
+.navigasi{
+    width: 90%;
+    height: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nama{
+    display: flex;
+    flex-direction: row;
+    font-size: 40px;
+    padding-left: 8px;
+}
+
+.satu{
+    color: blue;
+}
+
+.dua{
+    color: red;
+}
+
+.menu a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    padding-right: 20px;
+}
+
+.menu img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.menu>a:hover{
+    transition: 0.5s;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.konten>p{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.konten{
+    border: 5px solid whitesmoke;
+    margin: 30px 50px 30px 50px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 20px;
+    background-color: pink;
+    text-align: center;
+    align-items: center;
+}
+.konten img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.kritik{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.mapel{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.t{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ab{
+    border: 5px solid whitesmoke;
+    margin: 30px 50px 30px 50px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 20px;
+    background-color: pink;
+    text-align: center;
+    align-items: center;
+}
+
+.mapel{
+    border: 5px solid whitesmoke;
+    margin: 30px 50px 30px 50px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 20px;
+    background-color: pink;
+    text-align: center;
+    align-items: center;
+}
